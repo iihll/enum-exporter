@@ -1,0 +1,27 @@
+{
+  "name": "enum-exporter",
+  "version": "0.0.1",
+  "description": "A gadget that exports all enumerations of the prototype.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iihll/enum-exporter.git"
+  },
+  "keywords": [
+    "enum",
+    "exporter",
+    "prototype"
+  ],
+  "author": "iihll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iihll/enum-exporter/issues"
+  },
+  "homepage": "https://github.com/iihll/enum-exporter#readme",
+  "dependencies": {
+    "jsdom": "^17.0.0"
+  }
+}
